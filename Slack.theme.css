@@ -94,3 +94,15 @@ body, div, span, textarea, ::-webkit-input-placeholder {
 .modeSelected-1zApJ_ .icon-1_QxNX, .modeSelected-1zApJ_:hover .icon-1_QxNX, .modeUnread-1zpFdA .icon-1_QxNX, .modeUnread-1zpFdA:hover .icon-1_QxNX {
   color: white;
 }
+
+.colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
+  background-color: #0576b9;
+}
+
+.colorDefault-2K3EoJ.focused-3afm-j {
+  background-color: black;
+}
+
+.barFill-23-gu- {
+  background: #0576b9;
+}
