@@ -5,7 +5,7 @@ Convers your Discord to look more like Slack Aubergine.
 Using Discord to learn CSS.
 
 Screenshot:
-![Theme Picture](https://i.imgur.com/uvOvh98.png)
+![Theme Picture](https://i.imgur.com/6iHEEi9.png)
 
 
 Slack reference:
