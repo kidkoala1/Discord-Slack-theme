@@ -1,0 +1,96 @@
+/**
+ * @name Slack theme
+ * @version 1.0
+ * @description Slack Discord
+ * @author lorenzo#8504
+**/
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap");
+
+body, div, span, textarea, ::-webkit-input-placeholder {
+  font-family: "Lato", sans-serif
+}
+
+.theme-dark {
+  --background-primary: #1a1d21;
+  --background-secondary: #1a1d21;
+  --background-secondary-alt: #1a1d21;
+  --background-message-hover:#222529;
+  --background-modifier-selected: #0576b9;
+  --background-modifier-hover: black;
+  --text-normal: #d1d2d3;
+  --background-modifier-active: black;
+}
+
+.da-sidebar {
+  border: 1px solid #313438;
+}
+
+.da-panels {
+  border-top: 1px solid#313438;
+} 
+
+.container-1r6BKw.themed-ANHk51 {
+  border-bottom: 1px solid #313438;
+  border-top: 1px solid #313438;
+}
+
+.clickable-2ap7je {
+  border-bottom: 1px solid #313438;
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB>.scroller-2FKFPG::-webkit-scrollbar-track-piece {
+  background-color: transparent;
+  border: 0;
+  border-top-color: rgb(0, 85, 255);
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB>.scroller-2FKFPG::-webkit-scrollbar-thumb {
+  background-color: #7d8082;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+}
+
+.theme-dark .scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG::-webkit-scrollbar-thumb {
+  background-color: #7d8082;
+}
+.clickable-2ap7je {
+  border-bottom: 0;
+}
+
+.header-2o-2hj {
+  height: 47px;
+  border-bottom: 1px solid #313438;
+}
+
+.searchBar-6Kv8R2 {
+  height: 46px;
+  border-bottom: 1px solid #313438;
+}
+
+.platform-win .sidebar-2K8pFh {
+  border-radius: 0;
+}
+
+.container-1r6BKw.transparent-2ZlE3R {
+  border-bottom: 1px solid #313438;
+  border-top: 1px solid #313438;
+  background-color: #1a1d21;
+}
+
+.scrollableContainer-2NUZem {
+  border-radius: 3px;
+  border: 1px solid #565856;
+  background-color: #222529;
+}
+
+.content-3at_AU {
+  padding: 0 8px;
+  border border-radius: 0;
+}
+
+.modeSelected-1zApJ_ .icon-1_QxNX, .modeSelected-1zApJ_:hover .icon-1_QxNX, .modeUnread-1zpFdA .icon-1_QxNX, .modeUnread-1zpFdA:hover .icon-1_QxNX {
+  color: white;
+}
