@@ -108,10 +108,6 @@ body, div, span, textarea, ::-webkit-input-placeholder {
   background: #0576b9;
 }
 
-element.style {
-  width: 24px;
-}
-
 .avatar-1BDn8e {
 border-radius: 4px;
 }
@@ -148,3 +144,10 @@ border-radius: 4px;
   color: #f2c744;
   background: #6d4b26;
 }
+
+.numberBadge-2s8kKX {
+  width: 24px !important;
+  box-shadow: 0 0 0 4px #202225;
+  
+}
+
