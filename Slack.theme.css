@@ -89,7 +89,7 @@ body, div, span, textarea, ::-webkit-input-placeholder {
 
 .content-3at_AU {
   padding: 0 8px;
-  border border-radius: 0;
+  border-radius: 2px;
 }
 
 .modeSelected-1zApJ_ .icon-1_QxNX, .modeSelected-1zApJ_:hover .icon-1_QxNX, .modeUnread-1zpFdA .icon-1_QxNX, .modeUnread-1zpFdA:hover .icon-1_QxNX {
@@ -128,4 +128,13 @@ border-radius: 4px;
   color: #d1d2d3;
   border: 1px solid #343639;
   padding: 8px 14px;
+}
+
+.wrapper-1ucjTd {
+  height: 36px;
+  padding-top: 0;
+  padding-bottom: 0;
+  overflow: visible;
+  position: relative;
+  cursor: pointer;
 }
