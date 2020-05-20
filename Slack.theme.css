@@ -1,7 +1,7 @@
 /**
  * @name Slack theme
  * @version 1.0
- * @description Slack Discord
+ * @description Make Discord look like Slack (Aubergine theme)
  * @author lorenzo#8504
 **/
 
@@ -105,4 +105,26 @@ body, div, span, textarea, ::-webkit-input-placeholder {
 
 .barFill-23-gu- {
   background: #0576b9;
+}
+
+element.style {
+  width: 24px;
+}
+
+.avatar-1BDn8e {
+border-radius: 4px;
+}
+
+.username-1A8OIy {
+  font-weight: 900;
+  font-size: 15px;
+}
+
+.content-1o0f9g {
+  font-size: 14px;
+  font-weight: 800;
+  border-radius: 50px;
+  color: #d1d2d3;
+  border: 1px solid #343639;
+  padding: 8px 14px;
 }
